@@ -59,6 +59,7 @@
         "small": "/drivers/FT096-C16/assets/images/small.png"
       },
       "zwave": {
+        "includeSecure": false,
         "manufacturerId": 362,
         "productTypeId": [
           3
@@ -618,6 +619,7 @@
         "small": "/drivers/FT098-K/assets/images/small.png"
       },
       "zwave": {
+        "includeSecure": false,
         "manufacturerId": 362,
         "productTypeId": [
           3,
@@ -914,6 +916,7 @@
         "small": "/drivers/FT100-K/assets/images/small.png"
       },
       "zwave": {
+        "includeSecure": false,
         "manufacturerId": 362,
         "productTypeId": [
           7426,
@@ -1409,6 +1412,7 @@
         "small": "/drivers/FT111-C/assets/images/small.png"
       },
       "zwave": {
+        "includeSecure": false,
         "manufacturerId": 362,
         "productTypeId": [
           3,
@@ -1715,6 +1719,7 @@
         "small": "/drivers/FT112-K/assets/images/small.png"
       },
       "zwave": {
+        "includeSecure": false,
         "manufacturerId": 362,
         "productTypeId": [
           2,
@@ -1873,6 +1878,7 @@
         "small": "/drivers/FT121-C/assets/images/small.png"
       },
       "zwave": {
+        "includeSecure": false,
         "manufacturerId": 362,
         "productTypeId": [
           3,
@@ -2220,6 +2226,7 @@
         "small": "/drivers/FT130-C/assets/images/small.png"
       },
       "zwave": {
+        "includeSecure": false,
         "manufacturerId": 362,
         "productTypeId": [
           2,
@@ -2578,6 +2585,7 @@
         "small": "/drivers/FT139-C/assets/images/small.png"
       },
       "zwave": {
+        "includeSecure": false,
         "manufacturerId": 362,
         "productTypeId": [
           3,
@@ -2842,6 +2850,7 @@
         "small": "/drivers/FT140-C/assets/images/small.png"
       },
       "zwave": {
+        "includeSecure": false,
         "manufacturerId": 362,
         "productTypeId": [
           3,

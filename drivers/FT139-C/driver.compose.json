@@ -12,6 +12,7 @@
     "small": "{{driverAssetsPath}}/images/small.png"
   },
   "zwave": {
+    "includeSecure": false,
     "manufacturerId": 362,
     "productTypeId": [
       3,
